@@ -1,44 +1,16 @@
 
-h3{
-    text-align: center;
-    color: black
-}
-
-
 header {
-    background-color: ;
-}
-
-header h1 {
-    margin: 0;
-}
-
-html, body {
-    margin: 0;
-    padding: 0;
-}
-.box{
-	width:100px;
-	height:100px;
-
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ffffff
 }
 
 
-
+.Connect{
+    float: center;
+    margin-right: 10px;
 }
-.blue{
-	background:#00f;
-
-
-}
-    #styledImage{
-    border: 5px solid red;
-    }
-    p {
-    border-style: solid;
-    border-color: black;
-}
-
 
 ul#nav {
 	width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25px auto;
@@ -67,3 +39,10 @@ ul#nav {
 			ul#nav li a:hover {
 				color: #a12121;
 			}
+
+
+
+
+
+
+
