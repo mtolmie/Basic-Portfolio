@@ -1,0 +1,69 @@
+
+h3{
+    text-align: center;
+    color: black
+}
+
+
+header {
+    background-color: ;
+}
+
+header h1 {
+    margin: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.box{
+	width:100px;
+	height:100px;
+
+}
+
+
+
+}
+.blue{
+	background:#00f;
+
+
+}
+    #styledImage{
+    border: 5px solid red;
+    }
+    p {
+    border-style: solid;
+    border-color: black;
+}
+
+
+ul#nav {
+	width: 940px; list-style: none; overflow: hidden; margin: -134px auto 25px auto;
+}
+	ul#nav li {
+		width: 126px; height: 33px; float: left; padding: 13px 0 0 0;
+		background: url(images/nav-bg.png);
+		font-weight: bold; text-align: center; text-transform: uppercase;
+	}
+		ul#nav li:nth-child(1) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(2) {
+			margin: 0 316px 0 0;
+		}
+		ul#nav li:nth-child(3) {
+			margin: 0 60px 0 0;
+		}
+		ul#nav li:nth-child(4) {
+			margin: 0;
+		}
+
+		ul#nav li a {
+			color: #616369; text-decoration: none;
+		}
+			ul#nav li a:hover {
+				color: #a12121;
+			}
