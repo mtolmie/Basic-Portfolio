@@ -1,7 +1,17 @@
-body {
-    background-color: white;
-}
 
+{background: "wood"}
+
+
+h1{
+    background: blue;
+    font-style: white;
+    float:right;
+}
+    
+
+
+
+}
 .about {
     padding-right: 5px;
 
@@ -72,4 +82,11 @@ ul{
 
 li{
 	display: inline;
+}
+
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
 }
